@@ -5,14 +5,15 @@ void setup() {
 
 void loop() {
 on(1000);
-off();
+
 }
 
 void on(int x){
   digitalWrite(LED_BUILTIN, HIGH);  // turn the LED on (HIGH is the voltage level)
   delay(x);
+  off(X);
 }
-void off(){
+void off(int x){
   digitalWrite(LED_BUILTIN, LOW);   // turn the LED off by making the voltage LOW
-  delay(1000);
+  delay(x);
 }
