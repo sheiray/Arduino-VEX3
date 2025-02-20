@@ -15,4 +15,6 @@ When opening again
 - Switch to the Arduino Program
 - Note: add ``` #include <arduino.h>``` library
 
+To open a new Folder: File / New Window OR Open Folder
+
 ---
