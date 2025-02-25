@@ -27,12 +27,8 @@ To open a new Folder: File / New Window OR Open Folder
 - Black: ground
 - Red: 5V Power
 
-Trigger
-- Orange
-- Pin-9
+Trigger: Orange, Pin-9
 
-Echo
-- Yellow
-- Pin-10
+Echo: Yellow, Pin-10
 
 ---
