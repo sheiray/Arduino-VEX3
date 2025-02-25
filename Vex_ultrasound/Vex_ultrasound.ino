@@ -1,6 +1,7 @@
 const int trigPin = 9;
 const int echoPin = 10;
 const int led = 8;
+int x=0;
 
 void setup() {
   Serial.begin(9600);
@@ -21,10 +22,14 @@ void loop() {
   long distance = duration * 0.034 / 2;
   
   if (distance <=60)
+  {
     digitalWrite(led, HIGH);
-    else
+  } else
+  {
     digitalWrite(led, LOW);
+  }
 
+  //Serial.print(x++);
   Serial.print(distance);
   Serial.println(" cm");
     delay(50);
