@@ -2,8 +2,11 @@
 Exploration 
 
 Hyperlinks
-- Exploration of PlatformIO, <a href="">TBA</a>
-
+- Exploration of PlatformIO, <a href="https://github.com/MercersKitchen/Arduino-VEX3?tab=readme-ov-file#arduino-vex3">Text Here</a>
+- VEX Ultrasonic, <a href="https://github.com/MercersKitchen/Arduino-VEX3/tree/main?tab=readme-ov-file#vex-ultrasonic">Text Here</a>
+    - <a href="https://github.com/MercersKitchen/Arduino-VEX3/tree/main/Vex_ultrasound">Code Here</a>
+- TBA, <a href="">Text Here</a>
+- TBA, <a href="">Code Here</a>
 
 ---
 
