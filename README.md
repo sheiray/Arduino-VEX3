@@ -1,6 +1,10 @@
 # Arduino-VEX3
 Exploration 
 
+Hyperlinks
+- Exploration of PlatformIO, <a href="">TBA</a>
+
+
 ---
 
 # Exploration of PlatformIO
@@ -16,5 +20,19 @@ When opening again
 - Note: add ``` #include <arduino.h>``` library
 
 To open a new Folder: File / New Window OR Open Folder
+
+---
+
+# VEX Ultrasonic
+- Black: ground
+- Red: 5V Power
+
+Trigger
+- Orange
+- Pin-9
+
+Echo
+- Yellow
+- Pin-10
 
 ---
