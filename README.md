@@ -1,5 +1,7 @@
 # Arduino-VEX3
-Exploration 
+Exploration
+
+Reminder in Arduino IDE: Open Serial Monitor
 
 Hyperlinks
 - Exploration of PlatformIO, <a href="https://github.com/MercersKitchen/Arduino-VEX3?tab=readme-ov-file#arduino-vex3">Text Here</a>
@@ -31,8 +33,18 @@ To open a new Folder: File / New Window OR Open Folder
 - Black: ground
 - Red: 5V Power
 
-Trigger: Orange, Pin-9
+Trigger (OUTPUT): Orange, Pin-9
 
-Echo: Yellow, Pin-10
+Echo (INPUT): Yellow, Pin-10
+
+---
+
+# VEX Shaft Encoder
+- Black: ground
+- Red: 5V
+
+Outer White Wire = 3 Pin
+
+Inner White Wire = 5 Pin
 
 ---
