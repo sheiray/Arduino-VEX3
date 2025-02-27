@@ -41,10 +41,12 @@ Echo (INPUT): Yellow, Pin-10
 
 # VEX Shaft Encoder
 - Black: ground
-- Red: 5V
+- Red: 5V (CAUTION current image illustrates 3.3V)
 
 Outer White Wire = 3 Pin
 
 Inner White Wire = 5 Pin
+
+If Power connected to 3.3V program runs but sensor does not output or input distance
 
 ---
