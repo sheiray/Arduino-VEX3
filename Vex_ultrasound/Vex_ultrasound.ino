@@ -1,23 +1,23 @@
-const int triggerPin = 9;
-const int echoPin = 10;
+const int outputPin = 9;
+const int inputPin = 10;
 const int led = 8;
 //int x=0;
 
 void setup() {
   Serial.begin(9600);
-  pinMode(triggerPin, INPUT);
-  pinMode(echoPin, OUTPUT);
+  pinMode(outputPin, INPUT);
+  pinMode(inputPin, OUTPUT);
 }
 
 void loop() {
-  digitalWrite(echoPin, LOW);
+  digitalWrite(inputPin, LOW);
   delayMicroseconds(2);
   
-  digitalWrite(echoPin, HIGH);
+  digitalWrite(inputPin, HIGH);
   delayMicroseconds(10);
-  digitalWrite(echoPin, LOW);
+  digitalWrite(inputPin, LOW);
 
-  long duration = pulseIn(triggerPin, HIGH);
+  long duration = pulseIn(outputPin, HIGH);
   long distance = duration * 0.034 / 2;
   
   if (distance <=60)
