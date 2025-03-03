@@ -69,5 +69,8 @@ If Power connected to 3.3V program runs but sensor does not output or input dist
 - analog means reading a specifc number
 - digital output means triggering a sensor between 0 & 1
 
+- line sensor: what is the darkest number, what is the birghtest number
+- how does this correspond in "real-life"
+
 ---
 
