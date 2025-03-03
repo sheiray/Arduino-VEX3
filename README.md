@@ -31,7 +31,16 @@ To open a new Folder: File / New Window OR Open Folder
 
 # Converting Arduino to VSC-PlatformIO
 - In Github Desktop / Open VSC
-- 
+
+### Notes to include
+- New Project
+- Choose Board
+- Name File
+- PlatformIO will create contents of folder
+- copy .ino to source
+- delete main.cpp
+- execute by checkmark, arrow, and clicking the pulg in (serial monitor, in the PlatformIO bottom-picker)
+
 ---
 
 # VEX Ultrasonic
@@ -55,3 +64,10 @@ Inner White Wire = 5 Pin
 If Power connected to 3.3V program runs but sensor does not output or input distance
 
 ---
+
+# To Include
+- analog means reading a specifc number
+- digital output means triggering a sensor between 0 & 1
+
+---
+
