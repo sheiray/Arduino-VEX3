@@ -72,5 +72,8 @@ If Power connected to 3.3V program runs but sensor does not output or input dist
 - line sensor: what is the darkest number, what is the birghtest number
 - how does this correspond in "real-life"
 
+Google Search: https://www.vexrobotics.com/276-2154.html?___store=vexroboticsca&___from_store=vexrobotics&srsltid=AfmBOopOWOMtHZChHNC3Sl_xxSmBXaDxidMMMvo1M1As8EO_jG4Fgu_r#attr-vex_compatability
+- Sensor Search numbers on sesnor: Vex3 2442BB [276-2154]
+
 ---
 
