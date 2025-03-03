@@ -29,6 +29,11 @@ To open a new Folder: File / New Window OR Open Folder
 
 ---
 
+# Converting Arduino to VSC-PlatformIO
+- In Github Desktop / Open VSC
+- 
+---
+
 # VEX Ultrasonic
 - Black: ground
 - Red: 5V Power
