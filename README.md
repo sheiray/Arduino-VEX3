@@ -46,6 +46,7 @@ To open a new Folder: File / New Window OR Open Folder
 # VEX Ultrasonic
 - Black: ground
 - Red: 5V Power
+- digital output means triggering a sensor between 0 & 1
 
 Trigger (OUTPUT): Orange, Pin-9
 
@@ -56,6 +57,7 @@ Echo (INPUT): Yellow, Pin-10
 # VEX Shaft Encoder
 - Black: ground
 - Red: 5V (CAUTION current image illustrates 3.3V)
+- digital output means triggering a sensor between 0 & 1
 
 Outer White Wire = 3 Pin
 
@@ -65,15 +67,24 @@ If Power connected to 3.3V program runs but sensor does not output or input dist
 
 ---
 
-# To Include
+# Line Follower
+- **See Folder for PDFs** about sensor desgin and hints.
+- Black: ground
+- Red: 5V
+
 - analog means reading a specifc number
-- digital output means triggering a sensor between 0 & 1
 
 - line sensor: what is the darkest number, what is the birghtest number
 - how does this correspond in "real-life"
 
 Google Search: https://www.vexrobotics.com/276-2154.html?___store=vexroboticsca&___from_store=vexrobotics&srsltid=AfmBOopOWOMtHZChHNC3Sl_xxSmBXaDxidMMMvo1M1As8EO_jG4Fgu_r#attr-vex_compatability
 - Sensor Search numbers on sesnor: Vex3 2442BB [276-2154]
+
+--- 
+
+# To Include
+- find design ideas for sensor
+- design self-driving car | apply to cars already made
 
 ---
 
