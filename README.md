@@ -80,7 +80,38 @@ If Power connected to 3.3V program runs but sensor does not output or input dist
 Google Search: https://www.vexrobotics.com/276-2154.html?___store=vexroboticsca&___from_store=vexrobotics&srsltid=AfmBOopOWOMtHZChHNC3Sl_xxSmBXaDxidMMMvo1M1As8EO_jG4Fgu_r#attr-vex_compatability
 - Sensor Search numbers on sesnor: Vex3 2442BB [276-2154]
 
+---
+
+# Potentiometer
+
+Video Support: https://youtu.be/Wa8CjGsOFzY?si=0STN7rZC84WG9xFl
+
+### Rearch
+- https://kb.vex.com/hc/en-us/articles/360039090591-Using-the-V5-3-Wire-Potentiometer
+- https://wiki.purduesigbots.com/vex-electronics/vex-sensors/3-pin-adi-sensors/potentiometer
+
 --- 
+
+---
+
+# Bump Switch
+
+
+--- 
+
+---
+
+# Bump Switch
+
+
+--- 
+
+# Arduino Uno Playlist
+
+https://youtu.be/Wa8CjGsOFzY?si=0STN7rZC84WG9xFl
+
+
+---
 
 # To Include
 - find design ideas for sensor
