@@ -85,23 +85,35 @@ Google Search: https://www.vexrobotics.com/276-2154.html?___store=vexroboticsca&
 # Potentiometer
 
 Video Support: https://youtu.be/Wa8CjGsOFzY?si=0STN7rZC84WG9xFl
+- https://docs.arduino.cc/learn/electronics/potentiometer-basics/
 
 ### Rearch
 - https://kb.vex.com/hc/en-us/articles/360039090591-Using-the-V5-3-Wire-Potentiometer
 - https://wiki.purduesigbots.com/vex-electronics/vex-sensors/3-pin-adi-sensors/potentiometer
+- https://www.vexforum.com/t/potentiometer/45361
+- https://kb.vex.com/hc/en-us/articles/360039090591-Using-the-V5-3-Wire-Potentiometer
+
+--- 
+
+# Bump Switch
+
+
+Ideas
+- https://kb.vex.com/hc/en-us/articles/360038026831-Using-the-V5-3-Wire-Bumper-Switch-v2-Limit-Switch
+- https://www.vexforum.com/t/programming-bumper-switches/23430
+
 
 --- 
 
 ---
 
-# Bump Switch
+# Limit Switch
 
 
---- 
 
----
+Ideas
+- https://kb.vex.com/hc/en-us/articles/360038026831-Using-the-V5-3-Wire-Bumper-Switch-v2-Limit-Switch
 
-# Bump Switch
 
 
 --- 
@@ -119,3 +131,9 @@ https://youtu.be/Wa8CjGsOFzY?si=0STN7rZC84WG9xFl
 
 ---
 
+# To Explore
+- https://github.com/michaellatman/Arduino-VEX
+- https://forum.arduino.cc/t/vex-kit-controller-usage/1158279/2
+- https://learn.sparkfun.com/blog/1593
+- https://forum.arduino.cc/t/problems-incorporating-vex-into-arduino/520665
+- 
