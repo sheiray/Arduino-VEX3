@@ -11,6 +11,10 @@ Hyperlinks
 - TBA, <a href="">Text Here</a>
 - TBA, <a href="">Code Here</a>
 
+
+** Note:** forked and alternate from Mr. Rutter
+- https://github.com/NickRutterUalberta/Arduino-VEX3
+
 ---
 
 # Exploration of PlatformIO
