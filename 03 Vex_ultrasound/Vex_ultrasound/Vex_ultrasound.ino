@@ -1,5 +1,5 @@
 const int outputPin = 9;
-const int inputPin = 10;
+const int inputPin = 10; 
 const int led = 8;
 //int x=0;
 
